@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/whatdino/static/css/main.a50c5e38.chunk.css",
-    "main.js": "/whatdino/static/js/main.633dba70.chunk.js",
-    "main.js.map": "/whatdino/static/js/main.633dba70.chunk.js.map",
+    "main.css": "/whatdino/static/css/main.0cd9c491.chunk.css",
+    "main.js": "/whatdino/static/js/main.b82ce62e.chunk.js",
+    "main.js.map": "/whatdino/static/js/main.b82ce62e.chunk.js.map",
     "runtime-main.js": "/whatdino/static/js/runtime-main.537ecd36.js",
     "runtime-main.js.map": "/whatdino/static/js/runtime-main.537ecd36.js.map",
-    "static/js/2.4f812d2b.chunk.js": "/whatdino/static/js/2.4f812d2b.chunk.js",
-    "static/js/2.4f812d2b.chunk.js.map": "/whatdino/static/js/2.4f812d2b.chunk.js.map",
+    "static/js/2.5db59443.chunk.js": "/whatdino/static/js/2.5db59443.chunk.js",
+    "static/js/2.5db59443.chunk.js.map": "/whatdino/static/js/2.5db59443.chunk.js.map",
     "index.html": "/whatdino/index.html",
-    "static/css/main.a50c5e38.chunk.css.map": "/whatdino/static/css/main.a50c5e38.chunk.css.map",
-    "static/js/2.4f812d2b.chunk.js.LICENSE.txt": "/whatdino/static/js/2.4f812d2b.chunk.js.LICENSE.txt"
+    "static/css/main.0cd9c491.chunk.css.map": "/whatdino/static/css/main.0cd9c491.chunk.css.map",
+    "static/js/2.5db59443.chunk.js.LICENSE.txt": "/whatdino/static/js/2.5db59443.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.537ecd36.js",
-    "static/js/2.4f812d2b.chunk.js",
-    "static/css/main.a50c5e38.chunk.css",
-    "static/js/main.633dba70.chunk.js"
+    "static/js/2.5db59443.chunk.js",
+    "static/css/main.0cd9c491.chunk.css",
+    "static/js/main.b82ce62e.chunk.js"
   ]
 }
