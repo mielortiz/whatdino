@@ -87,6 +87,46 @@ const questions = [
             { answerText: 'Apatosaurus', isCorrect: true },
         ],
     },
+    {
+        image:'https://images.dinosaurpictures.org/parasaurolophus_by_thek560-d7d7a3r_eab8.jpg',
+        answerOptions: [
+            { answerText: 'Apatosaurus', isCorrect: false },
+            { answerText: 'Triceratops', isCorrect: false },
+            { answerText: 'Parasaurolophus', isCorrect: true },
+        ],
+    },
+    {
+        image:'https://images.dinosaurpictures.org/antarctopelta_2abb.jpg',
+        answerOptions: [
+            { answerText: 'Apatosaurus', isCorrect: false },
+            { answerText: 'Velociraptor', isCorrect: false },
+            { answerText: 'Antarctopelta', isCorrect: true },
+        ],
+    },
+    {
+        image:'https://images.dinosaurpictures.org/ankylosaurus_d998.jpg',
+        answerOptions: [
+            { answerText: 'Parasaurolophus', isCorrect: false },
+            { answerText: 'Antarctopelta', isCorrect: false },
+            { answerText: 'Ankylosaurus', isCorrect: true },
+        ],
+    },
+    {
+        image:'https://images.dinosaurpictures.org/Ceratosaurus_nasicornis_by_unlobogris_ef96.jpg',
+        answerOptions: [
+            { answerText: 'Allosaurus', isCorrect: false },
+            { answerText: 'Apatosaurus', isCorrect: false },
+            { answerText: 'Ceratosaurus', isCorrect: true },
+        ],
+    },
+    {
+        image:'https://images.dinosaurpictures.org/Corythosaurus070_e50a.jpg',
+        answerOptions: [
+            { answerText: 'Ceratosaurus', isCorrect: false },
+            { answerText: 'Antarctopelta', isCorrect: false },
+            { answerText: 'Corythosaurus', isCorrect: true },
+        ],
+    },
 ];
 
 export default questions;

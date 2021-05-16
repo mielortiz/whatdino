@@ -1,7 +1,7 @@
-import { waitForDomChange } from '@testing-library/dom';
 import React, { useState } from 'react';
 
 import questions from './que_ans.js'
+
 
 export default function App() {
 	const [showScore, setShowScore] = useState(false);
